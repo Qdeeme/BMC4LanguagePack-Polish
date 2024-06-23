@@ -19,7 +19,7 @@
 	"Polski": {
 		
 		"//": "BMC4[FORGE]v26 Paczka językowa - polski 1.20.1, spakowana i przygotowana do pracy jako resourcepack.",
-		"//": "Wszystko przetestowane, wszystko działa dobrze.",
+		"//": "Wszystko przetestowane, wszystko działa świetnie.",
 		"//": "Tłumaczenie zawiera pewne nazwy własne, takie jak mining_tree w Twilightforest, które zostało przetłumaczone na Kopalniok.",
 		"//": "Mam nadzieję, że będzie to pomocne dla tych, którzy nie władają biegle językiem angielskim",
   		"//": "Projekt będzie aktualizowany.",
