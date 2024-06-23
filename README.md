@@ -3,7 +3,7 @@
 	"English": {
 		
 		
-		"//": "BMC4[FORGE]v26 LanguagePack - Polish 1.20.1 zipped and prepared to work as a resourcepack.",
+		"//": "BMC4[FORGE]v26 LanguagePack - Polish 1.20.1, prepared to work as a resourcepack.",
 		"//": "All tested, all works fine.",
 		"//": "Translation contains some proper names like Twilightforest's mining_tree which has been translated into Kopalniok.",
 		"//": "I hope it's gonna be helpful for those who are non-fluent/native in english.",
@@ -18,7 +18,7 @@
 	},
 	"Polski": {
 		
-		"//": "BMC4[FORGE]v26 Paczka językowa - polski 1.20.1, spakowana i przygotowana do pracy jako resourcepack.",
+		"//": "BMC4[FORGE]v26 Paczka językowa - polski 1.20.1, przygotowana do pracy jako resourcepack.",
 		"//": "Wszystko przetestowane, wszystko działa świetnie.",
 		"//": "Tłumaczenie zawiera pewne nazwy własne, takie jak mining_tree w Twilightforest, które zostało przetłumaczone na Kopalniok.",
 		"//": "Mam nadzieję, że będzie to pomocne dla tych, którzy nie władają biegle językiem angielskim",
