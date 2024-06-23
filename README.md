@@ -29,6 +29,6 @@
 		"//": "-Twilightforest 1.20.1",
 		"//": "-XaerosWorldMap_1.37.8_Forge_1.20",
 		"//": "-Xaeros_Minimap_23.9.7_Forge_1.20",
-		"//": "-XaeroPlus-Forge-1.20.1"
+		"//": "-XaeroPlus-Forge-1.20.1."
 	}
 }
