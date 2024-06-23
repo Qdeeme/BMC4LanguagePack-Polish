@@ -16,7 +16,7 @@
 		"//": "-Xaeros_Minimap_23.9.7_Forge_1.20",
 		"//": "-XaeroPlus-Forge-1.20.1"
 	},
-	"Polish": {
+	"Polski": {
 		
 		"//": "BMC4[FORGE]v26 Paczka językowa - polski 1.20.1, spakowana i przygotowana do pracy jako resourcepack.",
 		"//": "Wszystko przetestowane, wszystko działa dobrze.",
